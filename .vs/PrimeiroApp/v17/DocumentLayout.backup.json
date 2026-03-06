@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeToolTip": "PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:24:23.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Models\\Usuario.cs",
+              "RelativeToolTip": "PrimeiroApp\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:06:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PrimeiroApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\appsettings.Development.json",
+              "RelativeToolTip": "PrimeiroApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T12:28:21.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

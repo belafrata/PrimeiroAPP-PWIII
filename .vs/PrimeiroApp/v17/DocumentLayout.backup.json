@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,76 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CadastrarUsuario.cshtml",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
               "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
               "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
               "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-10T12:19:36.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Program.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Program.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Program.cs",
-              "RelativeToolTip": "PrimeiroApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:56:24.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:55:51.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
-              "RelativeToolTip": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:16:43.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
-              "RelativeToolTip": "PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:24:23.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "PrimeiroApp\\Models\\Usuario.cs",
@@ -120,15 +56,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "PrimeiroApp\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\appsettings.Development.json",
-              "RelativeToolTip": "PrimeiroApp\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-06T12:28:21.993Z",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:55:51.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:16:43.038Z",
               "EditorCaption": ""
             }
           ]

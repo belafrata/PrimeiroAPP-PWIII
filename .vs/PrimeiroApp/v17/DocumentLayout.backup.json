@@ -38,8 +38,7 @@
               "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T12:19:36.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T12:19:36.999Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "PrimeiroApp\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:06:12.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T13:06:12.397Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "PrimeiroApp\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:55:51.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T11:55:51.312Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
               "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
               "RelativeToolTip": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAtwB4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwB8AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T11:16:43.038Z",
               "EditorCaption": ""

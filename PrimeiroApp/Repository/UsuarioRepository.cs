@@ -1,6 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using PrimeiroApp.Models;
 using PrimeiroApp.Repository.Contract;
+using System.Data;
 
 namespace PrimeiroApp.Repository
 {
@@ -43,7 +44,31 @@ namespace PrimeiroApp.Repository
 
         public IEnumerable<Usuario> ObterTodosUsuarios()
         {
-            throw new NotImplementedException();
+            List<Usuario> UsuarioList = new List<Usuario>();
+            using(var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("select * from tbUsuario");
+
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+
+                conexao.Close();
+
+                foreach(DataRow dr in dt.Rows)
+                {
+                    UsuarioList.Add(
+                        new Usuario
+                        {
+                            IdUsu = Convert.ToInt32(dr["IdUsu"]),
+                            nomeUsu = (string)dr["nomeUsu"],
+                            Cargo = (string)dr["Cargo"],
+                            DataNasc = Convert.ToDateTime(dr["DataNasc"])
+                        });
+                }
+                return UsuarioList;
+            }
         }
 
         public Usuario ObterUsuario(int Id)

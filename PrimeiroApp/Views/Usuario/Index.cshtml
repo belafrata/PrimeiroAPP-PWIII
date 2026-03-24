@@ -28,9 +28,18 @@
                     <td>@usuario.Cargo</td>
                     <td>@usuario.DataNasc</td>
                     <td>
-                        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                        <button type="button" class="btn btn-warning">
+                            @Html.ActionLink("Editar", "AtualizarUsuario", new { id = usuario.IdUsu})
+                        </button>
+
+                        <button type="button" class="btn btn-secondary">
+                            @Html.ActionLink("Detalhes", "DetalhesUsuario", new { id = usuario.IdUsu })
+                        </button>
+
+                        <button type="button" class="btn btn-danger">
+                            @Html.ActionLink("Excluir", "ExcluirUsuario", new { id = usuario.IdUsu },
+                                new {onclick = "return confirm('Deseja realmente excluir?');"})
+                        </button>
                     </td>
                 </tr>
             }

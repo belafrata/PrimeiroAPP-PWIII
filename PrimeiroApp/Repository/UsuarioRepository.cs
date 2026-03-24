@@ -16,12 +16,26 @@ namespace PrimeiroApp.Repository
 
         public void Atualizar(Usuario usuario)
         {
-            throw new NotImplementedException();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+
+                MySqlCommand cmd = new MySqlCommand("update usuario set nomeUsu=@nomeUsu, Cargo=@Cargo, DataNasc=@DataNasc " +
+                                                    "where IdUsu=@IdUsu;", conexao);
+
+                cmd.Parameters.Add("@nomeUsu", MySqlDbType.VarChar).Value = usuario.nomeUsu;
+                cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
+                cmd.Parameters.Add("@DataNasc", MySqlDbType.Date).Value = usuario.DataNasc;
+                cmd.Parameters.Add("@IdUsu", MySqlDbType.Date).Value = usuario.IdUsu;
+
+                cmd.ExecuteNonQuery();
+                conexao.Close();
+            }
         }
 
         public void Cadastrar(Usuario usuario)
         {
-            using(var conexao = new MySqlConnection(_conexaoMySQL))
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
 
@@ -45,7 +59,7 @@ namespace PrimeiroApp.Repository
         public IEnumerable<Usuario> ObterTodosUsuarios()
         {
             List<Usuario> UsuarioList = new List<Usuario>();
-            using(var conexao = new MySqlConnection(_conexaoMySQL))
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
                 MySqlCommand cmd = new MySqlCommand("select * from usuario", conexao);
@@ -56,7 +70,7 @@ namespace PrimeiroApp.Repository
 
                 conexao.Close();
 
-                foreach(DataRow dr in dt.Rows)
+                foreach (DataRow dr in dt.Rows)
                 {
                     UsuarioList.Add(
                         new Usuario
@@ -73,7 +87,25 @@ namespace PrimeiroApp.Repository
 
         public Usuario ObterUsuario(int Id)
         {
-            throw new NotImplementedException();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("select * from usuario", conexao);
+
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                MySqlDataReader dr;
+
+                Usuario usuario = new Usuario();
+                dr = cmd.ExecuteReader(CommandBehavior.CloseConnection);
+                while (dr.Read())
+                {
+                    usuario.IdUsu = Convert.ToInt32(dr["IdUsu"]);
+                    usuario.nomeUsu = (string)dr["nomeUsu"];
+                    usuario.Cargo = (string)dr["Cargo"];
+                    usuario.DataNasc = Convert.ToDateTime(dr["DataNasc"]);
+                }
+                return usuario;
+            }
         }
     }
 }

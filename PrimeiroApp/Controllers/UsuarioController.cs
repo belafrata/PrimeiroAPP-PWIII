@@ -32,5 +32,19 @@ namespace PrimeiroApp.Controllers
             }
             return View();
         }
+
+        [HttpGet]
+        public IActionResult AtualizarUsuario(int id)
+        {
+            return View(_usuarioRepository.ObterUsuario(id));
+        }
+        [HttpPost]
+        public IActionResult AtualizarUsuario(Usuario usuario)
+        {
+            _usuarioRepository.Atualizar(usuario);
+            
+            return RedirectToAction(nameof(Index));
+        }
+
     }
 }

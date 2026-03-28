@@ -13,3 +13,6 @@ insert into usuario(nomeUsu, Cargo, DataNasc)
 				   ('Bruno', 'Colaborador', '2000/10/12');
                    
 select * from usuario;
+
+alter table usurio
+add Endereco varchar(50) not null;

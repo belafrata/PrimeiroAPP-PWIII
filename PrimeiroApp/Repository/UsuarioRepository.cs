@@ -20,12 +20,13 @@ namespace PrimeiroApp.Repository
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("update usuario set nomeUsu=@nomeUsu, Cargo=@Cargo, DataNasc=@DataNasc " +
+                MySqlCommand cmd = new MySqlCommand("update usuario set nomeUsu=@nomeUsu, Cargo=@Cargo, DataNasc=@DataNasc, Endereco=@Endereco " +
                                                     "where IdUsu=@IdUsu;", conexao);
 
                 cmd.Parameters.Add("@nomeUsu", MySqlDbType.VarChar).Value = usuario.nomeUsu;
                 cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
                 cmd.Parameters.Add("@DataNasc", MySqlDbType.Date).Value = usuario.DataNasc;
+                cmd.Parameters.Add("@Endereco", MySqlDbType.VarChar).Value = usuario.Endereco;
                 cmd.Parameters.Add("@IdUsu", MySqlDbType.Date).Value = usuario.IdUsu;
 
                 cmd.ExecuteNonQuery();
@@ -39,12 +40,13 @@ namespace PrimeiroApp.Repository
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("insert into usuario(nomeUsu, Cargo, DataNasc) " +
-                                                    "values (@nomeUsu, @Cargo, @DataNasc)", conexao);
+                MySqlCommand cmd = new MySqlCommand("insert into usuario(nomeUsu, Cargo, DataNasc, Endereco) " +
+                                                    "values (@nomeUsu, @Cargo, @DataNasc, @Endereco)", conexao);
 
                 cmd.Parameters.Add("@nomeUsu", MySqlDbType.VarChar).Value = usuario.nomeUsu;
                 cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
                 cmd.Parameters.Add("@DataNasc", MySqlDbType.Date).Value = usuario.DataNasc;
+                cmd.Parameters.Add("@Endereco", MySqlDbType.VarChar).Value = usuario.Endereco;
 
                 cmd.ExecuteNonQuery();
                 conexao.Close();
@@ -78,7 +80,8 @@ namespace PrimeiroApp.Repository
                             IdUsu = Convert.ToInt32(dr["IdUsu"]),
                             nomeUsu = (string)dr["nomeUsu"],
                             Cargo = (string)dr["Cargo"],
-                            DataNasc = Convert.ToDateTime(dr["DataNasc"])
+                            DataNasc = Convert.ToDateTime(dr["DataNasc"]),
+                            Endereco = (string)dr["Endereco"]
                         });
                 }
                 return UsuarioList;
@@ -103,6 +106,7 @@ namespace PrimeiroApp.Repository
                     usuario.nomeUsu = (string)dr["nomeUsu"];
                     usuario.Cargo = (string)dr["Cargo"];
                     usuario.DataNasc = Convert.ToDateTime(dr["DataNasc"]);
+                    usuario.Endereco = (string)dr["Endereco"];
                 }
                 return usuario;
             }

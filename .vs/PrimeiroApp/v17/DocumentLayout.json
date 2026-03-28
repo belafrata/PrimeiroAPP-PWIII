@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\",
+  "WorkspaceRootPath": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\3mtec\\desktop\\primeiroapp\\primeiroapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|c:\\users\\ifrat\\onedrive\\\u00E1rea de trabalho\\primeiroapp\\primeiroapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1610CB75-5C6C-459C-8F1E-A920ECD917BA}|PrimeiroApp\\PrimeiroApp.csproj|solutionrelative:primeiroapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -46,30 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AtualizarUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T12:01:11.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "PrimeiroApp\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T11:55:51.312Z",
               "EditorCaption": ""
@@ -77,92 +68,116 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PrimeiroApp\\Controllers\\HomeController.cs",
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeToolTip": "PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T11:41:49.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Models\\Usuario.cs",
-              "RelativeToolTip": "PrimeiroApp\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:36:31.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CadastrarUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T12:19:36.999Z",
+              "WhenOpened": "2026-03-17T11:44:41.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Repository\\UsuarioRepository.cs",
               "RelativeToolTip": "PrimeiroApp\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBYAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T11:16:43.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "AtualizarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T12:01:11.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastrarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T12:19:36.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\Index.cshtml",
               "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Views\\Usuario\\Index.cshtml",
               "RelativeToolTip": "PrimeiroApp\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-17T11:59:54.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-18T11:29:17.695Z"
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PrimeiroApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\appsettings.json",
+              "RelativeToolTip": "PrimeiroApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T15:45:39.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\3mtec\\Desktop\\PrimeiroApp\\PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
-              "RelativeToolTip": "PrimeiroApp\\Repository\\Contract\\IUsuarioRepository.cs",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Models\\Usuario.cs",
+              "RelativeToolTip": "PrimeiroApp\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:36:31.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PrimeiroApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T11:44:41.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T11:41:49.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ifrat\\OneDrive\\\u00C1rea de Trabalho\\PrimeiroApp\\PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PrimeiroApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T11:29:17.695Z"
             }
           ]
         }

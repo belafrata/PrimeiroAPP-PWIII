@@ -19,9 +19,5 @@ namespace PrimeiroApp.Models
         [Required(ErrorMessage = "O campo é obrigatório")]
         [DataType(DataType.DateTime)]
         public DateTime? DataNasc { get; set; }
-
-        [Display(Name = "Endereço")]
-        [Required(ErrorMessage = "O campo é obrigatório")]
-        public string Endereco { get; set; }
     }
 }

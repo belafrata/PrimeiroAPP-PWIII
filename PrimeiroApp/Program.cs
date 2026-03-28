@@ -8,6 +8,7 @@ builder.Services.AddControllersWithViews();
 
 // Adicionando a interface como serviço
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<IEnderecoRepositorio, EnderecoRepositorio>();
 
 var app = builder.Build();
 

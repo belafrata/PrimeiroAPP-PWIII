@@ -16,7 +16,6 @@
                 <th scope="col">@Html.DisplayNameFor(model => model.nomeUsu)</th>
                 <th scope="col">@Html.DisplayNameFor(model => model.Cargo)</th>
                 <th scope="col">@Html.DisplayNameFor(model => model.DataNasc)</th>
-                <th scope="col">@Html.DisplayNameFor(model => model.Endereco)</th>
                 <th scope="col">Ação</th>
             </tr>
         </thead>
@@ -28,7 +27,6 @@
                     <td>@usuario.nomeUsu</td>
                     <td>@usuario.Cargo</td>
                     <td>@usuario.DataNasc</td>
-                    <td>@usuario.Endereco</td>
                     <td>
                         <button type="button" class="btn btn-warning">
                             @Html.ActionLink("Editar", "AtualizarUsuario", new { id = usuario.IdUsu})
